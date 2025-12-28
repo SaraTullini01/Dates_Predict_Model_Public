@@ -37,27 +37,13 @@ Durante lo sviluppo sono state implementate soluzioni specifiche per superare os
 
 ---
 
-## 🚀 Installazione e Utilizzo
-
-### 1. Clonazione
-```bash
-git clone [https://github.com/SaraTullini01/Dates_Predict_Model.git](https://github.com/SaraTullini01/Dates_Predict_Model.git)
-cd Dates_Predict_Model
-```
-
-### 2. Configurazione ambiente di lavoro
-```bash
-pip install -r requirements.txt
-```
-
-### 3. Esecuzione
-```bash
-streamlit run app.py
-```
-
 ## 📈 Sviluppi Futuri
 Sebbene il modello sia funzionale, sono previsti miglioramenti per aumentarne la precisione:
 
 - Fine-tuning: Sblocco degli ultimi blocchi di DenseNet per specializzare il modello sulla texture specifica dei datteri.
 
 - Data Augmentation: Incremento della varietà del dataset per gestire diverse condizioni di illuminazione.
+
+---
+
+Il codice non è reso disponibile in seguito alla richiesta del professore del corso
