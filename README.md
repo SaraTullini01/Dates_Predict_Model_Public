@@ -1,7 +1,7 @@
 # 🌴 Date Quality Detector
 
 ### Progetto di Deep Learning - Corso di Laurea Magistrale
-**Sviluppata da:** Sara Tullini, Negri Davide e Chesta Lorenzo
+**Sviluppata da:** Sara Tullini, Negri Davide & Chesta Lorenzo
 
 ---
 
@@ -41,10 +41,15 @@ Durante lo sviluppo sono state implementate soluzioni specifiche per superare os
 Sebbene il modello sia funzionale, sono previsti miglioramenti per aumentarne la precisione:
 
 - Fine-tuning: Sblocco degli ultimi blocchi di DenseNet per specializzare il modello sulla texture specifica dei datteri.
-
 - Data Augmentation: Incremento della varietà del dataset per gestire diverse condizioni di illuminazione.
 
 ---
 
-Il codice non è reso disponibile in seguito alla richiesta del professore del corso ma è comunque possibile accedere alla demo dell'applicazione
+## 🔒 Nota sul Codice
+*Per rispettare le policy accademiche e permettere il riutilizzo didattico del progetto, il codice sorgente e le istanze specifiche del problema sono mantenuti in un repository privato. La demo dell'appllicazione è comunque disponibile*
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://datespredictmodel.streamlit.app/)
+
+---
+*A.A. 2024/2025 - Corso di Deep Learning*
+
+
