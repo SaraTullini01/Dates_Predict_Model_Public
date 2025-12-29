@@ -46,4 +46,5 @@ Sebbene il modello sia funzionale, sono previsti miglioramenti per aumentarne la
 
 ---
 
-Il codice non è reso disponibile in seguito alla richiesta del professore del corso
+Il codice non è reso disponibile in seguito alla richiesta del professore del corso ma è comunque possibile accedere alla demo dell'applicazione
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://datespredictmodel.streamlit.app/)
